@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "414657098182",
+    "project_id": "authjardinpro-939ba",
+    "storage_bucket": "authjardinpro-939ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414657098182:android:da2f627a96f4916c77c2c7",
+        "android_client_info": {
+          "package_name": "com.example.jardin_pro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLMh4J1Wj8lk3rCtuizy7lesqJj78yUrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
